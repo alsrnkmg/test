@@ -144,3 +144,6 @@ build/
 
 # Local Cursor MCP config (may contain tokens and machine-specific paths)
 .cursor/
+
+# Vercel
+.vercel/
