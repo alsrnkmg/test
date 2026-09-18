@@ -147,3 +147,6 @@ build/
 
 # Vercel
 .vercel/
+
+.env*
+!.env.example
